@@ -1,4 +1,6 @@
  svg {
-	width: 400px;
-	height: 550px;
+	width: 400px !important;
+	height: 550px !important;
+	position: relative;
+	right: 110px;
 }

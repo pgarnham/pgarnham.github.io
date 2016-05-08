@@ -6,8 +6,9 @@ $(document).ready(function(){
 		$("#canada").click(function(){
 
 			$("#can").show("slow");
-			$(".st0").hide("slow");
+			$("#america").hide("slow");
 			$("#chil").show("slow");
+
 
 		});
 

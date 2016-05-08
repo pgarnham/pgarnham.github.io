@@ -1,9 +1,47 @@
 
+
 img {
 
 	display:none;
-	width:200px;
-	height:300px;
 
 }
+
+#chil {
+
+	width: 120px; 
+	height:600px;
+}
+
+#ar {
+	width: 130px;
+	height: 620px;
+	float: right;
+}
+
+
+#per {
+	width: 130px;
+	height: 620px;
+	float: right;
+}
+
+#bol {
+	width: 200px;
+	height: 620px;
+	float: right;
+}
+
+#us {
+	width: 280px;
+	height: 620px;
+	float: right;
+}
+
+#can {
+	width: 240px;
+	height: 617px;
+	float: right;
+}
+
+
 

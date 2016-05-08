@@ -1,3 +1,19 @@
+#volver {
+	display: none;
+	position: relative;
+	top:300px;
+	left:-90px;
+}
+
+
+
+p {
+
+	display:none;
+	position: relative;
+	top:130px;
+
+}
 
 
 img {

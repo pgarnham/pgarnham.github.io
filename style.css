@@ -5,3 +5,26 @@
 	position: relative;
 	right: 40px;
 }
+
+#avion {
+
+	width: 30px;
+	height:40px ;
+	position: relative;
+	left:10px;
+}
+
+.titulo1 {
+
+	font-size: 60px;
+}
+
+.subtitulo {
+
+	font-size: 35px;
+}
+
+.o {
+
+	font-size: 20px;
+}

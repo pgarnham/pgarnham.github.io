@@ -8,6 +8,8 @@ $(document).ready(function(){
 			$("#can").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 
 
 		});
@@ -17,6 +19,8 @@ $(document).ready(function(){
 			$("#us").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#bolivia").click(function(){
@@ -24,6 +28,8 @@ $(document).ready(function(){
 			$("#bol").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#peru").click(function(){
@@ -31,6 +37,8 @@ $(document).ready(function(){
 			$("#per").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#argentina").click(function(){
@@ -38,6 +46,8 @@ $(document).ready(function(){
 			$("#ar").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#brazil").click(function(){
@@ -45,6 +55,8 @@ $(document).ready(function(){
 			$("#bra").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#uruguay").click(function(){
@@ -52,6 +64,8 @@ $(document).ready(function(){
 			$("#ur").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#paraguay").click(function(){
@@ -59,6 +73,8 @@ $(document).ready(function(){
 			$("#par").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#ecuador").click(function(){
@@ -66,6 +82,8 @@ $(document).ready(function(){
 			$("#ec").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#colombia").click(function(){
@@ -73,6 +91,8 @@ $(document).ready(function(){
 			$("#col").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#venezuela").click(function(){
@@ -80,6 +100,8 @@ $(document).ready(function(){
 			$("#ven").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#guyana").click(function(){
@@ -87,6 +109,8 @@ $(document).ready(function(){
 			$("#guy").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#surinam").click(function(){
@@ -94,6 +118,8 @@ $(document).ready(function(){
 			$("#sur").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#guayana_francesa").click(function(){
@@ -101,6 +127,8 @@ $(document).ready(function(){
 			$("#gua").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#panama").click(function(){
@@ -108,6 +136,8 @@ $(document).ready(function(){
 			$("#pan").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#costa_rica").click(function(){
@@ -115,6 +145,8 @@ $(document).ready(function(){
 			$("#cos").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#nicaragua").click(function(){
@@ -122,6 +154,8 @@ $(document).ready(function(){
 			$("#nic").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#honduras").click(function(){
@@ -129,6 +163,8 @@ $(document).ready(function(){
 			$("#hon").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#salvador").click(function(){
@@ -136,6 +172,8 @@ $(document).ready(function(){
 			$("#sal").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#belice").click(function(){
@@ -143,6 +181,8 @@ $(document).ready(function(){
 			$("#bel").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#guatemala").click(function(){
@@ -150,6 +190,8 @@ $(document).ready(function(){
 			$("#gua").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#cuba").click(function(){
@@ -157,6 +199,8 @@ $(document).ready(function(){
 			$("#cub").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#haiti").click(function(){
@@ -164,6 +208,8 @@ $(document).ready(function(){
 			$("#hai").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#mexico").click(function(){
@@ -171,6 +217,8 @@ $(document).ready(function(){
 			$("#mex").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#republica_dominicana").click(function(){
@@ -178,6 +226,8 @@ $(document).ready(function(){
 			$("#rep").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		$("#bahamas").click(function(){
@@ -185,6 +235,8 @@ $(document).ready(function(){
 			$("#bah").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+			$(".linea1").show("slow");
+			$("#volver").show("slow");
 		});
 
 		

@@ -6,6 +6,32 @@
 }
 
 
+.grafico {
+
+    display: none;
+    width: 250px;
+    position: relative;
+    left: -70px;
+    top:70px;
+}
+
+.gra1 {
+
+	position: relative;
+	top: -5px;
+}
+
+.gra2 {
+
+	position: relative;
+	top: -80px;
+}
+
+.gra3 {
+
+	position: relative;
+	top: -150px;
+}
 
 p {
 
@@ -51,12 +77,16 @@ img {
 	width: 280px;
 	height: 620px;
 	float: right;
+	position: relative;
+	left:90px;
 }
 
 #can {
 	width: 240px;
 	height: 617px;
 	float: right;
+	position: relative;
+	left:100px;
 }
 
 

@@ -8,7 +8,7 @@ $(document).ready(function(){
 			$("#can").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 
 
@@ -19,7 +19,7 @@ $(document).ready(function(){
 			$("#us").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -28,7 +28,7 @@ $(document).ready(function(){
 			$("#bol").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -37,7 +37,7 @@ $(document).ready(function(){
 			$("#per").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -46,7 +46,7 @@ $(document).ready(function(){
 			$("#ar").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -55,7 +55,7 @@ $(document).ready(function(){
 			$("#bra").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -64,7 +64,7 @@ $(document).ready(function(){
 			$("#ur").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -73,7 +73,7 @@ $(document).ready(function(){
 			$("#par").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -82,7 +82,7 @@ $(document).ready(function(){
 			$("#ec").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -91,7 +91,7 @@ $(document).ready(function(){
 			$("#col").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -100,7 +100,7 @@ $(document).ready(function(){
 			$("#ven").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -109,7 +109,7 @@ $(document).ready(function(){
 			$("#guy").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -118,7 +118,7 @@ $(document).ready(function(){
 			$("#sur").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -127,7 +127,7 @@ $(document).ready(function(){
 			$("#gua").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -136,7 +136,7 @@ $(document).ready(function(){
 			$("#pan").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -145,7 +145,7 @@ $(document).ready(function(){
 			$("#cos").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -154,7 +154,7 @@ $(document).ready(function(){
 			$("#nic").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -163,7 +163,7 @@ $(document).ready(function(){
 			$("#hon").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -172,7 +172,7 @@ $(document).ready(function(){
 			$("#sal").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -181,7 +181,7 @@ $(document).ready(function(){
 			$("#bel").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -190,7 +190,7 @@ $(document).ready(function(){
 			$("#gua").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -199,7 +199,7 @@ $(document).ready(function(){
 			$("#cub").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -208,7 +208,7 @@ $(document).ready(function(){
 			$("#hai").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -217,7 +217,7 @@ $(document).ready(function(){
 			$("#mex").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -226,7 +226,7 @@ $(document).ready(function(){
 			$("#rep").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 
@@ -235,7 +235,7 @@ $(document).ready(function(){
 			$("#bah").show("slow");
 			$("#america").hide("slow");
 			$("#chil").show("slow");
-			$(".linea1").show("slow");
+			$(".grafico").show("slow");
 			$("#volver").show("slow");
 		});
 

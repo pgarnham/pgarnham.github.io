@@ -1,0 +1,26 @@
+$(function () {
+    $('#container').highcharts({
+        chart: {
+            width: 500,
+            height:200,
+            type: 'column'
+
+        },
+
+        title: {
+            text: 'Inmigrantes'
+        },
+        xAxis: {
+            categories: ['2013', '2014', '2015']
+
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: 'Personas',
+            data: [5, -3, 4]
+         
+        }]
+    });
+});

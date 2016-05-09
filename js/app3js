@@ -1,0 +1,26 @@
+$(function () {
+    $('#container2').highcharts({
+        chart: {
+            width: 500,
+            height:200,
+            type: 'column'
+
+        },
+
+        title: {
+            text: 'Tipo Cambio'
+        },
+        xAxis: {
+            categories: ['2013', '2014', '2015']
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: 'Personas',
+            data: [5, -3, 4]
+            color:'red'
+         
+        }]
+    });
+});

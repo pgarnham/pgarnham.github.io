@@ -1,7 +1,9 @@
+
+
 $(function () {
         
         Highcharts.setOptions({
-        colors: ['#274C11', '#50B432', '#ED561B', '#DDDF00', '#24CBE5', '#64E572', '#FF9655', '#FFF263', '#6AF9C4']
+        colors: ['#274C11', '#FFF', '#ED561B', '#DDDF00', '#24CBE5', '#64E572', '#FF9655', '#FFF263', '#6AF9C4']
     });
 
 
@@ -43,21 +45,38 @@ $(function () {
                 text:false,
             },
 
-
-            plotLines: [{
-                color: '#274C11',
-                width: 2,
-                value: 0,
-            }]
         },
         credits: {
             enabled: false
         },
         series: [{
-            name: 'Personas',
-            data: [4, 8, 4]
-         
+            name:'Personas2',
+            data: [2, -7, 10]
+        },
+
+        {
+            name:'Personas2',
+            data:[3,5,5]
         }]
+
+
+
     });
+
+// the button action
+    var chart = $('#container').highcharts(),
+        $button = $('#button');
+    $button.click(function () {
+        var series = chart.series[0];
+        if (series.visible) {
+            series.hide();
+            $button.html('Show series');
+        } else {
+            series.show();
+            $button.html('Hide series');
+        }
+    });
+});
+
 });
 

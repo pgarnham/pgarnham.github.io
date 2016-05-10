@@ -2,8 +2,10 @@
 
 	position: relative;
 	left: 240px;
-	top:280px;
+	top:50px;
 }
+
+ 	
 
 
 #titulop {
@@ -50,7 +52,8 @@
 .grafico {
 
     display: none;
-    width: 250px;
+    width: 150px;
+    height: 100px;
     position: relative;
     left: -70px;
     top:70px;

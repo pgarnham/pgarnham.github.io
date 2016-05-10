@@ -1,5 +1,5 @@
 
-
+// -----------------------------------------------------------------------------------------------------------------
 $(function () {
         
         Highcharts.setOptions({
@@ -56,27 +56,13 @@ $(function () {
 
         {
             name:'Personas2',
-            data:[3,5,5]
+            data:[3,5,5],
+            //visible:true
         }]
 
-
-
-    });
-
-// the button action
-    var chart = $('#container').highcharts(),
-        $button = $('#button');
-    $button.click(function () {
-        var series = chart.series[0];
-        if (series.visible) {
-            series.hide();
-            $button.html('Show series');
-        } else {
-            series.show();
-            $button.html('Hide series');
-        }
-    });
 });
 
 });
+// ----------------------------------------------------------------------------------------------------------------------------------
+
 

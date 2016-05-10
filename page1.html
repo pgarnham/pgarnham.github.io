@@ -12,11 +12,13 @@
 	<div class="container row" id="xml">  <!-- inicio div container xml completo -->
 
 
-		<div class="col-md-4">
+		<div class="col-md-3" id="titulop">
+
+			<h1 class="text-center titulo1">VIAJAR</h1><p class="text-center o">---------- O --------<img src="avion.svg" id="avion"></p><h2 class="text-center subtitulo">NO VIAJAR</h2>
 
 		</div>
 
-		<div id="america" class="col-md-4"> <!-- inicio div mapa américa -->
+		<div id="america" class="col-md-2"> <!-- inicio div mapa américa -->
 			
 				<?xml version="1.0" encoding="utf-8"?>
 							<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -24,6 +26,7 @@
 							<style type="text/css">
 								.st0{fill:#CCCCCC;}
 								.st1{fill:#CC0909;}
+								#chile{fill:#CC0909;}
 							</style>
 							<path id="mexico" class="st0" d="M599.5,375.3l5,15.7l-2.3,1.3l0.3,3.1l4.4,3.4v6.3l5.4,5.2l-2.3-15.4l-3.1-10.2l0.8-7l2.6,0.3
 								l1,2.3l-1,6l13.4,26.3v9.4l10.9,12.8l11.9,5.5l4.9-2.9l7,5.7l4.1-4.2l-1.8-4.7l5.9-1.8l1.8,1l1.8-1.8h2.8l5.2-9.1l-2.6-2.3
@@ -137,8 +140,19 @@
 		</div> <!-- fin div mapa américa -->
 
 
-		<div class="col-md-4">
-			
+		<div class="col-md-7">
+
+			<div class="btn-group trim" data-toggle="buttons">
+				<label class="btn btn-primary active">
+					<input type="radio" name="options" id="trim1" autocomplete="off" checked> Primer Trimestre </label>
+				<label class="btn btn-primary">
+					<input type="radio" name="options" id="trim2" autocomplete="off" checked> Segundo Trimestre </label>
+				<label class="btn btn-primary">
+					<input type="radio" name="options" id="trim3" autocomplete="off" checked> Tercer Trimestre </label>
+				<label class="btn btn-primary">
+					<input type="radio" name="options" id="trim4" autocomplete="off" checked> Cuarto Trimestre </label>
+			</div>
+
 		</div>
 	</div>  <!-- fin div container xml completo -->
 
@@ -213,3 +227,7 @@
 <script source src="js/highcharts.js"></script>
 </body>
 </html>
+
+
+
+

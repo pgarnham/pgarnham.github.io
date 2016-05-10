@@ -7,12 +7,17 @@ $(document).ready(function(){
 			$("#chil").show("slow");
 			$(".grafico").show("slow");
 			$("#volver").show("slow");
+			$("#titulop").hide("slow");
+			$(".trim").hide("slow");
+
 
 			});
 
 		$("#volver").click(function(){
 
 			$("#america").show("slow");
+			$(".trim").show("slow");
+			$("#titulop").show("slow");
 			$("#chil").hide("slow");
 			$(".grafico").hide("slow");
 			$("#volver").hide("slow");

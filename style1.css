@@ -1,3 +1,44 @@
+.trim {
+
+	position: relative;
+	left: 240px;
+	top:280px;
+}
+
+
+#titulop {
+
+	position: relative;
+	right: 10px;
+}
+
+#avion {
+
+	width: 30px;
+	height:40px ;
+	position: relative;
+	left:20px;
+	display: inline;
+}
+
+.titulo1 {
+
+	font-size: 60px;
+	margin-bottom: 0px;
+}
+
+.subtitulo {
+
+	font-size: 35px;
+}
+
+.o {
+
+	font-size: 20px;
+}
+
+
+
 #volver {
 	display: none;
 	position: relative;
@@ -35,10 +76,9 @@
 
 p {
 
-	display:none;
 	position: relative;
-	top:130px;
-
+	right:-8px;
+	top: 5px;
 }
 
 
@@ -47,6 +87,8 @@ img {
 	display:none;
 
 }
+
+
 
 #chil {
 

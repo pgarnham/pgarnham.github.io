@@ -7,6 +7,7 @@ $(".bt1").click(function(){
 
 			$("#america").hide("slow");
 			$("#chil").show("slow");
+            $("#chil_nom").show("slow");
 			$(".grafico").show("slow");
 			$("#volver").show("slow");
 			$("#titulop").hide("slow");
@@ -21,6 +22,7 @@ $(".bt1").click(function(){
 			$(".trim").show("slow");
 			$("#titulop").show("slow");
 			$("#chil").hide("slow");
+            $("#chil_nom").hide("slow");
 			$(".grafico").hide("slow");
 			$("#volver").hide("slow");
 			$("#ar").hide("slow");

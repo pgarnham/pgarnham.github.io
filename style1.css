@@ -6,7 +6,9 @@
 }
 
  	
-
+.pai {
+	display: none;
+}
 
 #titulop {
 
@@ -62,7 +64,7 @@
 .gra1 {
 
 	position: relative;
-	top: -5px;
+	top: 2px;
 }
 
 .gra2 {
@@ -74,7 +76,7 @@
 .gra3 {
 
 	position: relative;
-	top: -150px;
+	top:-200px;
 }
 
 p {
@@ -85,16 +87,13 @@ p {
 }
 
 
-img {
 
-	display:none;
-
-}
 
 
 
 #chil {
 
+	display: none;
 	width: 120px; 
 	height:600px;
 }
@@ -134,5 +133,9 @@ img {
 	left:100px;
 }
 
+#mex {
+	position:relative;
+	top: -100px;
+}
 
 
